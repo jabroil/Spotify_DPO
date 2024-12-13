@@ -1,0 +1,1 @@
+Работу делал в google Colab Гитхабом пользуюсь не часто, поэтому вот, если что ссылка на сам Colab, чтоб не потерять работу: https://colab.research.google.com/drive/17Ir-j9PUzU38GpciyIKSwaSOr2JumyLO?usp=sharing
